@@ -1,0 +1,8 @@
+.jumbotron {
+  padding: 50px;
+  background-color: #fff;
+}
+#countdown {
+  font-size: 2em;
+  color: #333;
+}
